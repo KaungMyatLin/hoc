@@ -14,3 +14,5 @@ const simpleDiv = (props) => {
 }
 
 export default loader(simpleDiv);
+
+// this cmpnt will return a total result a simple <div>childrn</div>
