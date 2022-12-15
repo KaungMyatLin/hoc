@@ -1,8 +1,8 @@
+import HOC from '../components/simpleErrMsg_w._hocPattern'
+
 function App() {
   return (
-    <div className="App">
-      Hello World
-    </div>
+    <HOC />
   );
 }
 
